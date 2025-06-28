@@ -1,11 +1,11 @@
-• Project Title - 
-🦅 WeatherHawk: Real-Time Weather & Air Quality Dashboard
+## • Project Title - 
+### 🦅WeatherHawk: Real-Time Weather & Air Quality Dashboard
 A smart, city-level dashboard built in Power BI to track live weather conditions and air pollution metrics using real-time data from WeatherAPI.com.
 
-• Short Description / Purpose:-
+## • Short Description / Purpose:-
 WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air quality data across various cities. Powered by WeatherAPI.com and built in Power BI, it empowers users to make informed decisions with clear visuals on temperature, humidity, forecast trends, and AQI breakdowns.
 
-• Tech Stack:-
+## • Tech Stack:-
 • 📊 Power BI Desktop – Dashboard creation and interactivity
 
 • 📂 Power Query (M Language) – Connecting to and transforming WeatherAPI.com JSON data
@@ -20,12 +20,13 @@ WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air 
 
 
 
-•  Data Source:-
+## •  Data Source:-
  Source: WeatherAPI.com
 
 
 
-•  Fields Used in the Dashboard:-
+
+## •  Fields Used in the Dashboard:-
 
 Current Weather Conditions: Temperature, Weather Type (e.g., Mist), Humidity, Wind Speed, Pressure, Visibility, UV Index, Precipitation
 
@@ -40,13 +41,13 @@ Chance of Precipitation by day (%)
 Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with switchable views.
 
 
-•  Features / Highlights:-
+## •  Features / Highlights:-
 
-Business Problem
+# Business Problem
 
 Weather fluctuations and rising pollution levels demand constant monitoring. Individuals, city planners, and businesses need reliable, visualized climate data for safe and optimized decision-making.
 
-•  Goal of the Dashboard:-
+## •  Goal of the Dashboard:-
 
 To deliver a centralized, clean, and interactive tool that:
 
@@ -56,7 +57,7 @@ b)Supports planning for events, health alerts, logistics, and agriculture
 
 c)Provides a user-friendly experience to view weather data across multiple locations
 
-•  Visual Highlights :-
+## •  Visual Highlights :-
 
 🌡️ Temperature Display Card: Current city temperature with weather status
 
@@ -72,7 +73,7 @@ c)Provides a user-friendly experience to view weather data across multiple locat
 
 🌃 City Selector Toggle: Allows switching between multiple cities with updated data views
 
-💡 Business Impact :-
+## 💡 Business Impact :-
 
 🛣 Urban Planning & Infrastructure: Plan around storms, pollution surges, or limited visibility
 
