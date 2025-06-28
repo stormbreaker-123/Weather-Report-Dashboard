@@ -43,7 +43,7 @@ Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with s
 
 ## •  Features / Highlights:-
 
-# Business Problem
+### Business Problem
 
 Weather fluctuations and rising pollution levels demand constant monitoring. Individuals, city planners, and businesses need reliable, visualized climate data for safe and optimized decision-making.
 
