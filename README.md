@@ -21,41 +21,42 @@ WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air 
 
 
 ## •  Data Source:-
- Source: WeatherAPI.com
+  Source: WeatherAPI.com
 
 
 
 
 ## •  Fields Used in the Dashboard:-
 
-Current Weather Conditions: Temperature, Weather Type (e.g., Mist), Humidity, Wind Speed, Pressure, Visibility, UV Index, Precipitation
+ Current Weather Conditions: Temperature, Weather Type (e.g., Mist), Humidity, Wind Speed, Pressure, Visibility, UV Index, Precipitation
 
-7-Day Forecast: Daily average temperature and icons
+ 7-Day Forecast: Daily average temperature and icons
 
-Air Quality Index (AQI): AQI Score, PM2.5, PM10, CO, SO₂, O₃, NO₂
+ Air Quality Index (AQI): AQI Score, PM2.5, PM10, CO, SO₂, O₃, NO₂
 
-Sunrise & Sunset Times
+ Sunrise & Sunset Times
 
-Chance of Precipitation by day (%)
+ Chance of Precipitation by day (%)
 
-Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with switchable views.
+ Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with switchable views.
 
 
 ## •  Features / Highlights:-
 
 ### Business Problem
 
-Weather fluctuations and rising pollution levels demand constant monitoring. Individuals, city planners, and businesses need reliable, visualized climate data for safe and optimized decision-making.
+ Weather fluctuations and rising pollution levels demand constant monitoring. Individuals, city planners, and businesses need reliable, visualized climate data for safe and optimized      
+ decision-making.
 
 ## •  Goal of the Dashboard:-
 
-To deliver a centralized, clean, and interactive tool that:
+ To deliver a centralized, clean, and interactive tool that:
 
-a)Tracks real-time weather and pollution indicators
+ a)Tracks real-time weather and pollution indicators
 
-b)Supports planning for events, health alerts, logistics, and agriculture
+ b)Supports planning for events, health alerts, logistics, and agriculture
 
-c)Provides a user-friendly experience to view weather data across multiple locations
+ c)Provides a user-friendly experience to view weather data across multiple locations
 
 ## •  Visual Highlights :-
 
