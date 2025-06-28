@@ -18,8 +18,12 @@ WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air 
 
 • 🔄 Scheduled Refresh: Enabled through Power BI Service for auto-updating the data
 
+
+
 •  Data Source:-
  Source: WeatherAPI.com
+
+
 
 •  Fields Used in the Dashboard:-
 
@@ -34,6 +38,7 @@ Sunrise & Sunset Times
 Chance of Precipitation by day (%)
 
 Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with switchable views.
+
 
 •  Features / Highlights:-
 
