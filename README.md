@@ -49,5 +49,5 @@ c)Provides a user-friendly experience to view weather data across multiple locat
 🧳 Travel & Outdoor Activity: Helps tourists, commuters, and organizers schedule better
 🌾 Agriculture Support: Timely decisions around rainfall, temperature, and UV conditions
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/stormbreaker-123/Weather-Report-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
