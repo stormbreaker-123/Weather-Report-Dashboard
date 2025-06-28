@@ -1,11 +1,11 @@
-. Project Title - 
+• Project Title - 
 🦅 WeatherHawk: Real-Time Weather & Air Quality Dashboard
 A smart, city-level dashboard built in Power BI to track live weather conditions and air pollution metrics using real-time data from WeatherAPI.com.
 
-2. Short Description / Purpose:-
+• Short Description / Purpose:-
 WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air quality data across various cities. Powered by WeatherAPI.com and built in Power BI, it empowers users to make informed decisions with clear visuals on temperature, humidity, forecast trends, and AQI breakdowns.
 
-3. Tech Stack:-
+• Tech Stack:-
 • 📊 Power BI Desktop – Dashboard creation and interactivity
 • 📂 Power Query (M Language) – Connecting to and transforming WeatherAPI.com JSON data
 • 🧠 DAX (Data Analysis Expressions) – For dynamic KPIs, color coding, and custom logic
@@ -13,10 +13,10 @@ WeatherHawk is a sleek, real-time dashboard designed to monitor weather and air 
 • 📁 File Format: .pbix for development and .png for preview/snapshots
 • 🔄 Scheduled Refresh: Enabled through Power BI Service for auto-updating the data
 
-4. Data Source:-
-Source: WeatherAPI.com
+•  Data Source:-
+ Source: WeatherAPI.com
 
-• Fields Used in the Dashboard:-
+•  Fields Used in the Dashboard:-
 Current Weather Conditions: Temperature, Weather Type (e.g., Mist), Humidity, Wind Speed, Pressure, Visibility, UV Index, Precipitation
 7-Day Forecast: Daily average temperature and icons
 Air Quality Index (AQI): AQI Score, PM2.5, PM10, CO, SO₂, O₃, NO₂
@@ -24,8 +24,8 @@ Sunrise & Sunset Times
 Chance of Precipitation by day (%)
 Multiple Indian cities such as Agartala, Ajmer, and Hyderabad are tracked with switchable views.
 
-5. Features / Highlights:-
-• Business Problem
+•  Features / Highlights:-
+Business Problem
 Weather fluctuations and rising pollution levels demand constant monitoring. Individuals, city planners, and businesses need reliable, visualized climate data for safe and optimized decision-making.
 
 •  Goal of the Dashboard:-
